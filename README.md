@@ -1,2 +1,2 @@
-# QR-code-component-Challenge
+# QR-Code-Component-Challenge
 It's A Challenge From "Frontendmentor" Website
